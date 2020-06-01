@@ -17,7 +17,7 @@ elif weight >= 3 and weight <= 5:
 
 elif weight >= 6 and weight <= 9:
     print('\nRate for this weight is $4.00')
-    new_weight = weight *ship_charge3
+    new_weight = weight * ship_charge3
 
 elif weight >= 10:
     print('\nRate for this weight is $4.75')
