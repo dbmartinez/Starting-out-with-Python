@@ -1,4 +1,4 @@
-# Fevruary Days
+# February Days
 
 year = int(input('Enter a year: '))
 
